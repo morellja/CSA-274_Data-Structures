@@ -1,0 +1,255 @@
+digraph ncaa2009 { rankdir = LR;
+team1[shape = record, height = .1, width = 2, label = "East Tennessee St."]
+team2[shape = record, height = .1, width = 2, label = "Pittsburgh"]
+team3[shape = record, height = .1, width = 2, label = "Tennessee"]
+team4[shape = record, height = .1, width = 2, label = "Oklahoma St."]
+team5[shape = record, height = .1, width = 2, label = "Wisconsin"]
+team6[shape = record, height = .1, width = 2, label = "Florida St."]
+team7[shape = record, height = .1, width = 2, label = "Portland St."]
+team8[shape = record, height = .1, width = 2, label = "Xavier"]
+team9[shape = record, height = .1, width = 2, label = "Virginia Commonwealth"]
+team10[shape = record, height = .1, width = 2, label = "UCLA"]
+team11[shape = record, height = .1, width = 2, label = "American"]
+team12[shape = record, height = .1, width = 2, label = "Villanova"]
+team13[shape = record, height = .1, width = 2, label = "Minnesota"]
+team14[shape = record, height = .1, width = 2, label = "Texas"]
+team15[shape = record, height = .1, width = 2, label = "Binghamton"]
+team16[shape = record, height = .1, width = 2, label = "Duke"]
+team17[shape = record, height = .1, width = 2, label = "Radford"]
+team18[shape = record, height = .1, width = 2, label = "North Carolina"]
+team19[shape = record, height = .1, width = 2, label = "Butler"]
+team20[shape = record, height = .1, width = 2, label = "Louisiana St."]
+team21[shape = record, height = .1, width = 2, label = "Western Kentucky"]
+team22[shape = record, height = .1, width = 2, label = "Illinois"]
+team23[shape = record, height = .1, width = 2, label = "Akron"]
+team24[shape = record, height = .1, width = 2, label = "Gonzaga"]
+team25[shape = record, height = .1, width = 2, label = "Temple"]
+team26[shape = record, height = .1, width = 2, label = "Arizona St."]
+team27[shape = record, height = .1, width = 2, label = "Stephen F. Austin"]
+team28[shape = record, height = .1, width = 2, label = "Syracuse"]
+team29[shape = record, height = .1, width = 2, label = "Michigan"]
+team30[shape = record, height = .1, width = 2, label = "Clemson"]
+team31[shape = record, height = .1, width = 2, label = "Morgan St."]
+team32[shape = record, height = .1, width = 2, label = "Oklahoma"]
+team33[shape = record, height = .1, width = 2, label = "Morehead St."]
+team34[shape = record, height = .1, width = 2, label = "Louisville"]
+team35[shape = record, height = .1, width = 2, label = "Siena"]
+team36[shape = record, height = .1, width = 2, label = "Ohio St."]
+team37[shape = record, height = .1, width = 2, label = "Arizona"]
+team38[shape = record, height = .1, width = 2, label = "Utah"]
+team39[shape = record, height = .1, width = 2, label = "Cleveland St."]
+team40[shape = record, height = .1, width = 2, label = "Wake Forest"]
+team41[shape = record, height = .1, width = 2, label = "Dayton"]
+team42[shape = record, height = .1, width = 2, label = "West Virginia"]
+team43[shape = record, height = .1, width = 2, label = "North Dakota St."]
+team44[shape = record, height = .1, width = 2, label = "Kansas"]
+team45[shape = record, height = .1, width = 2, label = "Southern California"]
+team46[shape = record, height = .1, width = 2, label = "Boston College"]
+team47[shape = record, height = .1, width = 2, label = "Robert Morris"]
+team48[shape = record, height = .1, width = 2, label = "Michigan St."]
+team49[shape = record, height = .1, width = 2, label = "Chattanooga"]
+team50[shape = record, height = .1, width = 2, label = "Connecticut"]
+team51[shape = record, height = .1, width = 2, label = "Texas A&M"]
+team52[shape = record, height = .1, width = 2, label = "Brigham Young"]
+team53[shape = record, height = .1, width = 2, label = "Northern Iowa"]
+team54[shape = record, height = .1, width = 2, label = "Purdue"]
+team55[shape = record, height = .1, width = 2, label = "Mississippi St."]
+team56[shape = record, height = .1, width = 2, label = "Washington"]
+team57[shape = record, height = .1, width = 2, label = "Utah St."]
+team58[shape = record, height = .1, width = 2, label = "Marquette"]
+team59[shape = record, height = .1, width = 2, label = "Cornell"]
+team60[shape = record, height = .1, width = 2, label = "Missouri"]
+team61[shape = record, height = .1, width = 2, label = "Maryland"]
+team62[shape = record, height = .1, width = 2, label = "California"]
+team63[shape = record, height = .1, width = 2, label = "Cal St. Northridge"]
+team64[shape = record, height = .1, width = 2, label = "Memphis"]
+game62[shape = record, height = .1, width = 2, label = "Pittsburgh"];
+game61[shape = record, height = .1, width = 2, label = "Oklahoma St."];
+game60[shape = record, height = .1, width = 2, label = "Wisconsin"];
+game59[shape = record, height = .1, width = 2, label = "Xavier"];
+game58[shape = record, height = .1, width = 2, label = "UCLA"];
+game57[shape = record, height = .1, width = 2, label = "Villanova"];
+game56[shape = record, height = .1, width = 2, label = "Texas"];
+game55[shape = record, height = .1, width = 2, label = "Duke"];
+game54[shape = record, height = .1, width = 2, label = "North Carolina"];
+game53[shape = record, height = .1, width = 2, label = "Louisiana St."];
+game52[shape = record, height = .1, width = 2, label = "Western Kentucky"];
+game51[shape = record, height = .1, width = 2, label = "Gonzaga"];
+game50[shape = record, height = .1, width = 2, label = "Arizona St."];
+game49[shape = record, height = .1, width = 2, label = "Syracuse"];
+game48[shape = record, height = .1, width = 2, label = "Michigan"];
+game47[shape = record, height = .1, width = 2, label = "Oklahoma"];
+game46[shape = record, height = .1, width = 2, label = "Louisville"];
+game45[shape = record, height = .1, width = 2, label = "Siena"];
+game44[shape = record, height = .1, width = 2, label = "Arizona"];
+game43[shape = record, height = .1, width = 2, label = "Cleveland St."];
+game42[shape = record, height = .1, width = 2, label = "Dayton"];
+game41[shape = record, height = .1, width = 2, label = "Kansas"];
+game40[shape = record, height = .1, width = 2, label = "Southern California"];
+game39[shape = record, height = .1, width = 2, label = "Michigan St."];
+game38[shape = record, height = .1, width = 2, label = "Connecticut"];
+game37[shape = record, height = .1, width = 2, label = "Texas A&M"];
+game36[shape = record, height = .1, width = 2, label = "Purdue"];
+game35[shape = record, height = .1, width = 2, label = "Washington"];
+game34[shape = record, height = .1, width = 2, label = "Marquette"];
+game33[shape = record, height = .1, width = 2, label = "Missouri"];
+game32[shape = record, height = .1, width = 2, label = "Maryland"];
+game31[shape = record, height = .1, width = 2, label = "Memphis"];
+game30[shape = record, height = .1, width = 2, label = "Pittsburgh"];
+game29[shape = record, height = .1, width = 2, label = "Xavier"];
+game28[shape = record, height = .1, width = 2, label = "Villanova"];
+game27[shape = record, height = .1, width = 2, label = "Duke"];
+game26[shape = record, height = .1, width = 2, label = "North Carolina"];
+game25[shape = record, height = .1, width = 2, label = "Gonzaga"];
+game24[shape = record, height = .1, width = 2, label = "Syracuse"];
+game23[shape = record, height = .1, width = 2, label = "Oklahoma"];
+game22[shape = record, height = .1, width = 2, label = "Louisville"];
+game21[shape = record, height = .1, width = 2, label = "Arizona"];
+game20[shape = record, height = .1, width = 2, label = "Kansas"];
+game19[shape = record, height = .1, width = 2, label = "Michigan St."];
+game18[shape = record, height = .1, width = 2, label = "Connecticut"];
+game17[shape = record, height = .1, width = 2, label = "Purdue"];
+game16[shape = record, height = .1, width = 2, label = "Missouri"];
+game15[shape = record, height = .1, width = 2, label = "Memphis"];
+game14[shape = record, height = .1, width = 2, label = "Pittsburgh"];
+game13[shape = record, height = .1, width = 2, label = "Villanova"];
+game12[shape = record, height = .1, width = 2, label = "North Carolina"];
+game11[shape = record, height = .1, width = 2, label = "Oklahoma"];
+game10[shape = record, height = .1, width = 2, label = "Louisville"];
+game9[shape = record, height = .1, width = 2, label = "Michigan St."];
+game8[shape = record, height = .1, width = 2, label = "Connecticut"];
+game7[shape = record, height = .1, width = 2, label = "Missouri"];
+game6[shape = record, height = .1, width = 2, label = "Villanova"];
+game5[shape = record, height = .1, width = 2, label = "North Carolina"];
+game4[shape = record, height = .1, width = 2, label = "Michigan St."];
+game3[shape = record, height = .1, width = 2, label = "Connecticut"];
+game2[shape = record, height = .1, width = 2, label = "04/04/2009"];
+game1[shape = record, height = .1, width = 2, label = "04/04/2009"];
+game0[shape = record, height = .1, width = 2, label = "04/06/2009"];
+"team1" -> "game62";
+"team2" -> "game62";
+"game62" -> "game30";
+"team3" -> "game61";
+"team4" -> "game61";
+"game61" -> "game30";
+"team5" -> "game60";
+"team6" -> "game60";
+"game60" -> "game29";
+"team7" -> "game59";
+"team8" -> "game59";
+"game59" -> "game29";
+"team9" -> "game58";
+"team10" -> "game58";
+"game58" -> "game28";
+"team11" -> "game57";
+"team12" -> "game57";
+"game57" -> "game28";
+"team13" -> "game56";
+"team14" -> "game56";
+"game56" -> "game27";
+"team15" -> "game55";
+"team16" -> "game55";
+"game55" -> "game27";
+"team17" -> "game54";
+"team18" -> "game54";
+"game54" -> "game26";
+"team19" -> "game53";
+"team20" -> "game53";
+"game53" -> "game26";
+"team21" -> "game52";
+"team22" -> "game52";
+"game52" -> "game25";
+"team23" -> "game51";
+"team24" -> "game51";
+"game51" -> "game25";
+"team25" -> "game50";
+"team26" -> "game50";
+"game50" -> "game24";
+"team27" -> "game49";
+"team28" -> "game49";
+"game49" -> "game24";
+"team29" -> "game48";
+"team30" -> "game48";
+"game48" -> "game23";
+"team31" -> "game47";
+"team32" -> "game47";
+"game47" -> "game23";
+"team33" -> "game46";
+"team34" -> "game46";
+"game46" -> "game22";
+"team35" -> "game45";
+"team36" -> "game45";
+"game45" -> "game22";
+"team37" -> "game44";
+"team38" -> "game44";
+"game44" -> "game21";
+"team39" -> "game43";
+"team40" -> "game43";
+"game43" -> "game21";
+"team41" -> "game42";
+"team42" -> "game42";
+"game42" -> "game20";
+"team43" -> "game41";
+"team44" -> "game41";
+"game41" -> "game20";
+"team45" -> "game40";
+"team46" -> "game40";
+"game40" -> "game19";
+"team47" -> "game39";
+"team48" -> "game39";
+"game39" -> "game19";
+"team49" -> "game38";
+"team50" -> "game38";
+"game38" -> "game18";
+"team51" -> "game37";
+"team52" -> "game37";
+"game37" -> "game18";
+"team53" -> "game36";
+"team54" -> "game36";
+"game36" -> "game17";
+"team55" -> "game35";
+"team56" -> "game35";
+"game35" -> "game17";
+"team57" -> "game34";
+"team58" -> "game34";
+"game34" -> "game16";
+"team59" -> "game33";
+"team60" -> "game33";
+"game33" -> "game16";
+"team61" -> "game32";
+"team62" -> "game32";
+"game32" -> "game15";
+"team63" -> "game31";
+"team64" -> "game31";
+"game31" -> "game15";
+"game30" -> "game14";
+"game29" -> "game14";
+"game28" -> "game13";
+"game27" -> "game13";
+"game26" -> "game12";
+"game25" -> "game12";
+"game24" -> "game11";
+"game23" -> "game11";
+"game22" -> "game10";
+"game21" -> "game10";
+"game20" -> "game9";
+"game19" -> "game9";
+"game18" -> "game8";
+"game17" -> "game8";
+"game16" -> "game7";
+"game15" -> "game7";
+"game14" -> "game6";
+"game13" -> "game6";
+"game12" -> "game5";
+"game11" -> "game5";
+"game10" -> "game4";
+"game9" -> "game4";
+"game8" -> "game3";
+"game7" -> "game3";
+"game6" -> "game2";
+"game5" -> "game2";
+"game4" -> "game1";
+"game3" -> "game1";
+"game2" -> "game0";
+"game1" -> "game0";
+}

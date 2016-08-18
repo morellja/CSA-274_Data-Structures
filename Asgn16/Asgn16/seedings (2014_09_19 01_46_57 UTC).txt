@@ -1,0 +1,63 @@
+03/20/2009 East Tennessee St.      62 Pittsburgh              72
+03/20/2009 Tennessee               75 Oklahoma St.            77
+03/20/2009 Wisconsin               61 Florida St.             59
+03/20/2009 Portland St.            59 Xavier                  77
+03/19/2009 Virginia Commonwealth   64 UCLA                    65
+03/19/2009 American                67 Villanova               80
+03/19/2009 Minnesota               62 Texas                   76
+03/19/2009 Binghamton              62 Duke                    86
+03/19/2009 Radford                 58 North Carolina         101
+03/19/2009 Butler                  71 Louisiana St.           75
+03/19/2009 Western Kentucky        76 Illinois                72
+03/19/2009 Akron                   64 Gonzaga                 77
+03/20/2009 Temple                  57 Arizona St.             66
+03/20/2009 Stephen F. Austin       44 Syracuse                59
+03/19/2009 Michigan                62 Clemson                 59
+03/19/2009 Morgan St.              54 Oklahoma                82
+03/20/2009 Morehead St.            54 Louisville              74
+03/20/2009 Siena                   74 Ohio St.                72
+03/20/2009 Arizona                 84 Utah                    71
+03/20/2009 Cleveland St.           84 Wake Forest             69
+03/20/2009 Dayton                  68 West Virginia           60
+03/20/2009 North Dakota St.        74 Kansas                  84
+03/20/2009 Southern California     72 Boston College          55
+03/20/2009 Robert Morris           62 Michigan St.            77
+03/19/2009 Chattanooga             47 Connecticut            103
+03/19/2009 Texas A&M               79 Brigham Young           66
+03/19/2009 Northern Iowa           56 Purdue                  61
+03/19/2009 Mississippi St.         58 Washington              71
+03/20/2009 Utah St.                57 Marquette               58
+03/20/2009 Cornell                 59 Missouri                78
+03/19/2009 Maryland                84 California              71
+03/19/2009 Cal St. Northridge      70 Memphis                 81
+03/22/2009 Oklahoma St.            76 Pittsburgh              84
+03/22/2009 Wisconsin               49 Xavier                  60
+03/21/2009 UCLA                    69 Villanova               89
+03/21/2009 Texas                   69 Duke                    74
+03/21/2009 Louisiana St.           70 North Carolina          84
+03/21/2009 Western Kentucky        81 Gonzaga                 83
+03/22/2009 Arizona St.             67 Syracuse                78
+03/21/2009 Michigan                63 Oklahoma                73
+03/22/2009 Siena                   72 Louisville              79
+03/22/2009 Cleveland St.           57 Arizona                 71
+03/22/2009 Dayton                  43 Kansas                  60
+03/22/2009 Southern California     69 Michigan St.            74
+03/21/2009 Texas A&M               66 Connecticut             92
+03/21/2009 Purdue                  76 Washington              74
+03/22/2009 Marquette               79 Missouri                83
+03/21/2009 Maryland                70 Memphis                 89
+03/26/2009 Xavier                  55 Pittsburgh              60
+03/26/2009 Villanova               77 Duke                    54
+03/27/2009 Gonzaga                 77 North Carolina          98
+03/27/2009 Syracuse                71 Oklahoma                84
+03/27/2009 Arizona                 64 Louisville             103
+03/27/2009 Kansas                  62 Michigan St.            67
+03/26/2009 Purdue                  60 Connecticut             72
+03/26/2009 Missouri               102 Memphis                 91
+03/28/2009 Villanova               78 Pittsburgh              76
+03/29/2009 Oklahoma                60 North Carolina          72
+03/29/2009 Michigan St.            64 Louisville              52
+03/28/2009 Missouri                75 Connecticut             82
+04/04/2009 Villanova               00 North Carolina          00
+04/04/2009 Connecticut             00 Michigan St.            00
+04/06/2009 Finalist 1              00 Finalist 2              00
